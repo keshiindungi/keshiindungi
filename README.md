@@ -55,19 +55,17 @@ AI-powered analytics platform
 
 ### 🗄️ **Database System**
 MySQL-based structured database design  
-<img src="your-database-gif.gif" width="70%" />
+
 
 ---
 
 ### 🟦 **MERN Stack Applications**
 Real-world apps built using MongoDB, Express, React & Node  
-<img src="your-mern-gif.gif" width="70%" />
+
 
 ---
 
-<div align="center">
-  <img src="https://i.imgur.com/jx17Z9V.gif" width="60%" />
-</div>
+
 
 ---
 
@@ -80,9 +78,7 @@ Real-world apps built using MongoDB, Express, React & Node
 
 ---
 
-<div align="center">
-  <img src="https://i.imgur.com/SmZbY7a.gif" width="65%" alt="Divider" />
-</div>
+
 
 ---
 
@@ -100,9 +96,6 @@ Real-world apps built using MongoDB, Express, React & Node
 
 ---
 
-<div align="center">
-  <img src="https://i.imgur.com/3p0YFqX.gif" width="50%" />
-</div>
 
 ---
 
@@ -120,7 +113,7 @@ Real-world apps built using MongoDB, Express, React & Node
 
 <div align="center">
   <br>
-  <img src="https://i.imgur.com/WFHtNsp.gif" width="70px" />
+
   <p><strong>Thanks for visiting my profile! 💙✨</strong></p>
 </div>
 
