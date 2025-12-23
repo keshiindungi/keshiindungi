@@ -27,15 +27,11 @@
 
 ---
 
-## 🔥 Coding Streak & Stats
+## � GitHub Analytics
 
-I take pride in my consistency! Check out my GitHub streak and stats below.
+Check out my GitHub stats below.
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=keshiindungi&theme=tokyonight&hide_border=true&fire=EB4D4B&ring=3B82F6&currStreakNum=3B82F6" alt="GitHub Streak" />
-  </a>
-  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=keshiindungi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshiindungi&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
